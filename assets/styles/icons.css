@@ -1,0 +1,73 @@
+.icons:nth-child(1) {
+    background-image: url('../images/icons/aatrox.png');
+    color: white;
+}
+.icons:nth-child(2) {
+    background-image: url('../images/icons/akali.png');
+    color: white;
+}
+.icons:nth-child(3) {
+    background-image: url('../images/icons/camille.png');
+    color: white;
+}
+.icons:nth-child(4) {
+    background-image: url('../images/icons/cho.png');
+    color: white;
+}
+.icons:nth-child(5) {
+    background-image: url('../images/icons/darius.png');
+    color: white;
+}
+
+.icons:nth-child(6) {
+    background-image: url('../images/icons/mundovaiondeelequer.png');
+    color: white;
+}
+.icons:nth-child(7) {
+    background-image: url('../images/icons/fiora.png');
+    color: white;
+}
+.icons:nth-child(8) {
+    background-image: url('../images/icons/garen.png');
+    color: white;
+}
+.icons:nth-child(9) {
+    background-image: url('../images/icons/gnar.png');
+    color: white;
+}
+.icons:nth-child(10) {
+    background-image: url('../images/icons/gp.png');
+    color: white;
+}
+.icons:nth-child(11) {
+    background-image: url('../images/icons/gragas.png');
+    color: white;
+}
+.icons:nth-child(12) {
+    background-image: url('../images/icons/gwenestaimune.png');
+    color: white;
+}
+.icons:nth-child(13) {
+    background-image: url('../images/icons/illaoi.png');
+    color: white;
+}
+.icons:nth-child(14) {
+    background-image: url('../images/icons/irelia.png');
+    color: white;
+}
+.icons:nth-child(15) {
+    background-image: url('../images/icons/jax.png');
+    color: white;
+}
+.icons:nth-child(16) {
+    background-image: url('../images/icons/kennen.png');
+    color: white;
+}
+.icons:nth-child(17) {
+    background-image: url('../images/icons/kled.png');
+    color: white;
+}
+.icons:nth-child(18) {
+    background-image: url('../images/icons/kyle.png');
+    color: white;
+}
